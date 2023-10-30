@@ -1,0 +1,38 @@
+{
+  "title": "My Radar",
+  "quadrants": [
+    "Tools",
+    "Vector",
+    "Skills",
+    "Metrics"
+  ],
+  "rings": [
+    "adopt",
+    "trial",
+    "assess",
+    "hold"
+  ],
+  "blips": [
+    {
+      "name": "Confluence",
+      "quadrant": "Tools",
+      "ring": "adopt",
+      "isNew": true,
+      "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
+    },
+    {
+      "name": "PowerPoint",
+      "quadrant": "Tools",
+      "ring": "adopt",
+      "isNew": true,
+      "description": "This is a simple description"
+    },
+    {
+      "name": "Canva",
+      "quadrant": "Tools",
+      "ring": "adopt",
+      "isNew": true,
+      "description": "This is another simple description"
+    }
+  ]
+}
