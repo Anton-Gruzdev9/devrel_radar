@@ -1,5 +1,5 @@
 {
-  "title": "My Radar",
+  "title": "DevRel Radar",
   "quadrants": [
     "Tools",
     "Vector",
@@ -21,7 +21,56 @@
       "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
     },
     {
-      "name": "PowerPoint",
+      "name": "Figma",
+      "quadrant": "Tools",
+      "ring": "trial",
+      "isNew": true,
+      "description": "This is a simple description"
+    },
+    {
+      "name": "Movavi",
+      "quadrant": "Tools",
+      "ring": "assess",
+      "isNew": true,
+      "description": "This is a simple description"
+    },
+    {
+      "name": "Speechpad",
+      "quadrant": "Tools",
+      "ring": "assess",
+      "isNew": true,
+      "description": "This is a simple description"
+    },
+    {
+      "name": "Draw.io",
+      "quadrant": "Tools",
+      "ring": "adopt",
+      "isNew": true,
+      "description": "This is a simple description"
+    },
+    {
+      "name": "VidlQ",
+      "quadrant": "Tools",
+      "ring": "adopt",
+      "isNew": true,
+      "description": "This is a simple description"
+    },
+    {
+      "name": "TubeBuddy",
+      "quadrant": "Tools",
+      "ring": "adopt",
+      "isNew": true,
+      "description": "This is a simple description"
+    },
+    {
+      "name": "Jira",
+      "quadrant": "Tools",
+      "ring": "adopt",
+      "isNew": true,
+      "description": "This is a simple description"
+    },
+    {
+      "name": "Jira",
       "quadrant": "Tools",
       "ring": "adopt",
       "isNew": true,
